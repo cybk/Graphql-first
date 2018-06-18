@@ -1,0 +1,23 @@
+{
+  "name": "Graphql-first",
+  "version": "1.0.0",
+  "description": "Just a small GraphQL practice using Apollo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cybk/Graphql-first.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cybk/Graphql-first/issues"
+  },
+  "homepage": "https://github.com/cybk/Graphql-first#readme",
+  "dependencies": {
+    "apollo-server": "^2.0.0-rc.0"
+  }
+}

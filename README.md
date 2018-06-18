@@ -1,1 +1,1 @@
-Graphql-first
+Just a small GraphQL practice using Apollo
